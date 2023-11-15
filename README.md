@@ -16,7 +16,7 @@
 - while Loop
 - break and continue
 - switch...case
-- Programming goto
+- goto
 - Control Flow Examples
 
 # Functions
@@ -27,7 +27,7 @@
 - Recursion
 - Storage Class
 - Function Examples
-- Programming Arrays
+- Arrays
 
 # Arrays
 
@@ -44,6 +44,7 @@
 - Array & Pointer Examples
 
 # Strings
+
 - String
 - Functions
 - String Examples
