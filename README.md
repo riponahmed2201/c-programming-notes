@@ -1,4 +1,4 @@
-<p>
+<p align="center">
     <img src="./images/C-Programming-Language.png" />
 </p>
 
