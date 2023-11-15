@@ -10,6 +10,7 @@
 
 # Introduction
 
+- Comments
 - Keywords & Identifier
 - Variables & Constants
 - Data Types
