@@ -1,4 +1,12 @@
-# C programming
+<p>
+    <img src="./images/C-Programming-Language.png" />
+</p>
+
+# Reference
+
+- https://www.programiz.com/c-programming
+- https://www.geeksforgeeks.org/c-language-introduction
+- https://www.w3schools.com/c/
 
 # Introduction
 
@@ -57,7 +65,7 @@
 - Unions
 - struct Examples
 
-# Programming Files
+# Files
 
 - Files Input/Output
 - Files Examples
@@ -67,4 +75,4 @@
 - Enumeration
 - Preprocessors
 - Standard Library
-- rogramming Examples
+- programming Examples
